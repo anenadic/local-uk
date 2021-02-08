@@ -1,4 +1,4 @@
-# local-uk UK Carpentry Community
+# UK Carpentry Community (local-uk)
 This is the UK Carpentry Community space:
 
 - for the UK Carpentry instructors, helpers and workshop coordinators (or anyone involved in training tech to researchers in general and outside of the UK) to get to know each other better and encourage collaboration
