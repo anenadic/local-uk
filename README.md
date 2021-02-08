@@ -6,4 +6,4 @@ This is the UK Carpentry Community space:
 - to help the community in the UK with organising workshops and finding instructors/helpers
 - to provide a welcoming and inclusive environment for the community to share their experience, explore topics of interest, find collaborators for training related projects and network.
 
-Live [HackMD minutes document](https://hackmd.io/V3ReKkEESzqyCNxWJdulOw) that gets synched into the meeting_nimutes.md in this repo.
+Live [community calls' minutes document on HackMD](https://hackmd.io/V3ReKkEESzqyCNxWJdulOw) that gets synched into the meeting_nimutes.md in this repo.
