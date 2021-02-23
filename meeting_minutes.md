@@ -41,18 +41,29 @@ Name / Pronouns / Organisation / Role / Social media (GitHub, Twitter, etc.)
 - Juan Herrera / he, him / EPCC / ARCHER2 training function lead / :bird: [@JFR_Herrera](https://twitter.com/JFR_Herrera) :octopus: [juanfrh](https://github.com/juanfrh)
 - Andrew Walker / he, him / University of Oxford / Senior Research Fellow in Computational Geosciences / :octopus: [andreww](https://github.com/andreww) :link:[webpage](https://www.earth.ox.ac.uk/people/andrew-walker/)
 
+Chair: Aleks Nenadic
+
+Notetaker: Giacomo Peru
+
+### Actions:
+
+
 ### Agenda 
 (Feel free to make suggestions)
-- Assign notetaker
-- Introductions & Icebreaker
-    - Name, institution, all your roles in the Carpentry community (e.g. instructor, workshop coordinator/host, helper, lesson developer, training programme coordinator, Carpentry membership coordinator, etc.)
+
+- Introductions & icebreaker
+    - Name / pronoun / institution / how are you involved in the Carpentry community (e.g. instructor, instructor trainer, workshop coordinator/host, helper, lesson developer, Carpentry membership coordinator, Carpentry evangelist, etc.)
+        - Aleks Nenadic / she, her / SSI, University of Manchester / instructor trainer, instructor, workshop coordinator, lesson developer, Executive Council member
     - Icebreaker
 - House keeping 
     - Rolling notes
-    - After each session, the notes will be stored in the GitHub repo (hopefully with a push of a button)
-    - Rotating roles
-- What do the community want from these calls? Make your suggestions here.
-- Workshop organisation - the process and what people need help with? 
+    - After each session, the notes will be stored in the [GitHub repo](https://github.com/anenadic/local-uk/blob/main/meeting_minutes.md) (hopefully with a push of a button)
+    - Rotating roles - setting the agenda, chairing and notetaking
+    - [Carpentries community calendar](https://calendar.google.com/calendar/u/0/embed?src=oseuuoht0tvjbokgg3noh8c47g@group.calendar.google.com)
+    - [Carpentries community discussion Etherpad](https://pad.carpentries.org/community-discussions) 
+- What do you personally / or the community as a whole want from these calls? Make your suggestions here.
+    - e.g. workshop organisation - the process and what people need help with? 
+- Q&A - what questions do you have?
 - Regular call - frequency and time?
 - AOB
 
