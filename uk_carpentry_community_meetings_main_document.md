@@ -12,8 +12,9 @@ During these meetings, we will be conforming to [The Carpentries Code of Conduct
 
 **Meeting details are shared via [local-uk mailing list](https://carpentries.topicbox.com/groups/local-uk) and [The Carpentries community calendar](https://carpentries.org/community/#community-events).**
 
-**Community's HackMD workspace: https://hackmd.io/team/local-uk?nav=overview**
-**Previous meetings: https://hackmd.io/V3ReKkEESzqyCNxWJdulOw#Meetings**
+- **Community's HackMD workspace: https://hackmd.io/team/local-uk?nav=overview**
+- **Previous meetings: https://hackmd.io/V3ReKkEESzqyCNxWJdulOw#Meetings**
+- **Community space and meeting back-up on GitHub: https://github.com/anenadic/local-uk**
 
 
 ## Useful Links and Resources
