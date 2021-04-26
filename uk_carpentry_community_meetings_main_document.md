@@ -28,5 +28,6 @@ During these meetings, we will be conforming to [The Carpentries Code of Conduct
 
 ## Meetings
 
+- [26 April 2021](https://hackmd.io/rz0RkZoXQYG-XNA8zR78iw)
 - [22 March 2021](https://hackmd.io/PzwiVhdER4CUwHLdZu1eDQ)
 - [25 February 2021, initial meeting](https://hackmd.io/OrBvUMhuR1OqqGCrBeQIYA)
